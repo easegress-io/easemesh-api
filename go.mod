@@ -1,4 +1,4 @@
-module github.com/megaease/easemesh-api
+module github.com/easegress-io/easemesh-api
 
 go 1.17
 

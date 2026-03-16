@@ -59,7 +59,7 @@
 <p align="right"><a href="#top">Top</a></p>
 
 ## meshmodel.proto
-Copyright 2021 MegaEase
+Copyright 2021 easegress-io
   Licensed under the Apache License, Version 2.0 (the &#34;License&#34;);
   you may not use this file except in compliance with the License.
   You may obtain a copy of the License at

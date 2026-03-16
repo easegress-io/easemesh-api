@@ -49,13 +49,13 @@ Each version directory is self-contained and includes:
 The module path in `go.mod` is:
 
 ```go
-github.com/megaease/easemesh-api
+github.com/easegress-io/easemesh-api
 ```
 
 Install the module:
 
 ```bash
-go get github.com/megaease/easemesh-api
+go get github.com/easegress-io/easemesh-api
 ```
 
 Import the API version you need:
@@ -63,7 +63,7 @@ Import the API version you need:
 ```go
 package main
 
-import v2alpha1 "github.com/megaease/easemesh-api/v2alpha1"
+import v2alpha1 "github.com/easegress-io/easemesh-api/v2alpha1"
 
 func main() {
 	_ = &v2alpha1.Service{
